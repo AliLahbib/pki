@@ -1,0 +1,2 @@
+root   azerty
+cuser	azerty
